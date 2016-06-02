@@ -1,3 +1,3 @@
 # ebroker
 
-![Print screen](https://raw.githubusercontent.com/he--/ebroker/master/ebroker/WebContent/imagens/prtSc.png)
+![Print screen](https://github.com/he--/ebroker/master/ebroker/WebContent/imagens/prtSc.png)
