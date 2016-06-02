@@ -1,4 +1,4 @@
 # ebroker
 
-![alt tag](https://raw.githubusercontent.com/he--/ebroker/master/ebroker/WebContent/imagens/prtSc.png)
+![alt tag](http://raw.githubusercontent.com/he--/ebroker/master/ebroker/WebContent/imagens/prtSc.png)
 
